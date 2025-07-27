@@ -1,0 +1,7 @@
+name = input("please enter your name:")
+length = len(name)
+print(f" name length: {length}")
+print(f"length argument kind:{type(length)}")
+print(f"name is:{name}")
+print(f"name kind:{type(name)}")
+print(f"{type(len)}")
