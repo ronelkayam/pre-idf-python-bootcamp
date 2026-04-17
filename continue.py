@@ -1,4 +1,4 @@
 for i in "welcome david":
-    if i==" ":
+    if i == " ":
         continue
-    print(i,end="")
+    print(i, end="")

@@ -38,7 +38,7 @@ student["name"] = "David"
 print(f"after change:\n{student}")
 
 grades = student["grades"]
-max = 0;
+max = 0
 min = 101
 sum = 0
 for i in grades:
